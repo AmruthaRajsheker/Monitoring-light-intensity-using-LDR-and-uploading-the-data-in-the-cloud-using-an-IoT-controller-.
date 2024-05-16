@@ -116,7 +116,8 @@ SoftwareSerial ss(10, 11);       // Arduino RX, TX ,
 
 char rxbuff[128];
 uint8_t rxbuff_index=0;
-
+```
+```
 void setup() {
   // initialize serial
   
@@ -247,10 +248,11 @@ void LDR() {
 ```
 
 ## CIRCUIT DIAGRAM:
-![330894829-84f4cf6a-0f0b-4ae9-815e-81f5bac00af6](https://github.com/LavanyaMuraleedharan/Monitoring-light-intensity-using-LDR-and-uploading-the-data-in-the-cloud-using-an-IoT-controller-./assets/120103862/bdebe94f-6d4a-476c-b82a-52cdd9d702ab)
+<img src="https://github.com/LavanyaMuraleedharan/Monitoring-light-intensity-using-LDR-and-uploading-the-data-in-the-cloud-using-an-IoT-controller-./assets/120103862/bdebe94f-6d4a-476c-b82a-52cdd9d702ab" alt="description" style="width: 50%; height: auto;">
 
 ## OUTPUT:
-![330894147-c000eb03-ab82-4600-856b-e9159867f4f7](https://github.com/LavanyaMuraleedharan/Monitoring-light-intensity-using-LDR-and-uploading-the-data-in-the-cloud-using-an-IoT-controller-./assets/120103862/643cbb27-85ce-48da-8ebc-c27ed557a34f)
+<img src="https://github.com/LavanyaMuraleedharan/Monitoring-light-intensity-using-LDR-and-uploading-the-data-in-the-cloud-using-an-IoT-controller-./assets/120103862/643cbb27-85ce-48da-8ebc-c27ed557a34f" alt="description" style="width: 20%; height: auto;">
+
 
 ![330894342-a8651717-baf1-4662-bfc3-bc4501585fbc](https://github.com/LavanyaMuraleedharan/Monitoring-light-intensity-using-LDR-and-uploading-the-data-in-the-cloud-using-an-IoT-controller-./assets/120103862/484c4edf-2ff9-4f8d-ae0a-837823741373)
 
